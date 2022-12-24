@@ -1,2 +1,2 @@
 # react-projects
-List f react projects including tutorial projects
+List of react projects including tutorial projects
